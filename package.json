@@ -1,6 +1,6 @@
 {
   "name": "stock-history-viewer",
-  "homepage": "http://yourusername.github.io/repository-name",
+  "homepage": "http://okyanusatlas.github.io/stock-history-viewer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
